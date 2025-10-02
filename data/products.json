@@ -1,0 +1,62 @@
+[
+  {
+    "id": "deb54a87-1273-42cc-bf7e-a4a97d1b0f29",
+    "name": "Smartphone Samsung Galaxy S23",
+    "description": "Teléfono inteligente con pantalla AMOLED de 6.1 pulgadas",
+    "price": 899.99,
+    "category": "Electrónicos",
+    "stock": 15,
+    "imageUrl": "https://example.com/samsung-s23.jpg",
+    "createdAt": "2025-10-02T03:14:30.673Z",
+    "updatedAt": "2025-10-02T03:14:30.674Z",
+    "isActive": true
+  },
+  {
+    "id": "ec9ea455-cfb0-4e4e-b09f-bd0d04cab99d",
+    "name": "Laptop MacBook Air M2",
+    "description": "Laptop ultradelgada con chip M2 de Apple",
+    "price": 1299.99,
+    "category": "Computadoras",
+    "stock": 8,
+    "imageUrl": "https://example.com/macbook-air.jpg",
+    "createdAt": "2025-10-02T03:14:30.674Z",
+    "updatedAt": "2025-10-02T03:14:30.674Z",
+    "isActive": true
+  },
+  {
+    "id": "95732cfa-14a4-4230-8a4f-4b294de0534b",
+    "name": "Auriculares Sony WH-1000XM4",
+    "description": "Auriculares inalámbricos con cancelación de ruido",
+    "price": 349.99,
+    "category": "Audio",
+    "stock": 25,
+    "imageUrl": "https://example.com/sony-headphones.jpg",
+    "createdAt": "2025-10-02T03:14:30.674Z",
+    "updatedAt": "2025-10-02T03:14:30.674Z",
+    "isActive": true
+  },
+  {
+    "id": "2abe1ced-50c0-4564-a8e7-069131929f64",
+    "name": "Smartwatch Apple Watch Series 8",
+    "description": "Reloj inteligente con monitoreo de salud avanzado",
+    "price": 399.99,
+    "category": "Wearables",
+    "stock": 12,
+    "imageUrl": "https://example.com/apple-watch.jpg",
+    "createdAt": "2025-10-02T03:14:30.674Z",
+    "updatedAt": "2025-10-02T03:14:30.674Z",
+    "isActive": true
+  },
+  {
+    "id": "73d5862f-3109-4a59-9bc4-19824f5ba9ce",
+    "name": "Tablet iPad Air",
+    "description": "Tablet con pantalla Liquid Retina de 10.9 pulgadas",
+    "price": 599.99,
+    "category": "Tablets",
+    "stock": 20,
+    "imageUrl": "https://example.com/ipad-air.jpg",
+    "createdAt": "2025-10-02T03:14:30.674Z",
+    "updatedAt": "2025-10-02T03:14:30.674Z",
+    "isActive": true
+  }
+]
