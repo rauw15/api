@@ -6,7 +6,7 @@
     "price": 899.99,
     "category": "Electrónicos",
     "stock": 15,
-    "imageUrl": "https://example.com/samsung-s23.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=300&h=300&fit=crop",
     "createdAt": "2025-10-02T03:14:30.673Z",
     "updatedAt": "2025-10-02T03:14:30.674Z",
     "isActive": true
@@ -18,7 +18,7 @@
     "price": 1299.99,
     "category": "Computadoras",
     "stock": 8,
-    "imageUrl": "https://example.com/macbook-air.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=300&h=300&fit=crop",
     "createdAt": "2025-10-02T03:14:30.674Z",
     "updatedAt": "2025-10-02T03:14:30.674Z",
     "isActive": true
@@ -30,7 +30,7 @@
     "price": 349.99,
     "category": "Audio",
     "stock": 25,
-    "imageUrl": "https://example.com/sony-headphones.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop",
     "createdAt": "2025-10-02T03:14:30.674Z",
     "updatedAt": "2025-10-02T03:14:30.674Z",
     "isActive": true
@@ -42,7 +42,7 @@
     "price": 455,
     "category": "Wearables",
     "stock": 12,
-    "imageUrl": "https://example.com/apple-watch.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=300&h=300&fit=crop",
     "createdAt": "2025-10-02T03:14:30.674Z",
     "updatedAt": "2025-10-03T02:59:13.938Z",
     "isActive": true
@@ -54,7 +54,7 @@
     "price": 599.99,
     "category": "Tablets",
     "stock": 20,
-    "imageUrl": "https://example.com/ipad-air.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&h=300&fit=crop",
     "createdAt": "2025-10-02T03:14:30.674Z",
     "updatedAt": "2025-10-02T03:14:30.674Z",
     "isActive": true
