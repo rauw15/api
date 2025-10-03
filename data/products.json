@@ -39,12 +39,12 @@
     "id": "2abe1ced-50c0-4564-a8e7-069131929f64",
     "name": "Smartwatch Apple Watch Series 8",
     "description": "Reloj inteligente con monitoreo de salud avanzado",
-    "price": 399.99,
+    "price": 455,
     "category": "Wearables",
     "stock": 12,
     "imageUrl": "https://example.com/apple-watch.jpg",
     "createdAt": "2025-10-02T03:14:30.674Z",
-    "updatedAt": "2025-10-02T03:14:30.674Z",
+    "updatedAt": "2025-10-03T02:59:13.938Z",
     "isActive": true
   },
   {

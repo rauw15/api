@@ -138,8 +138,9 @@ app.use('*', (req, res) => {
 app.use(errorHandler);
 
 // Iniciar servidor
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 Servidor ejecutándose en http://localhost:${PORT}`);
+  console.log(`🌐 También disponible en http://192.168.1.76:${PORT}`);
   console.log(`📚 Documentación disponible en http://localhost:${PORT}/api-docs`);
   console.log(`🏥 Health check en http://localhost:${PORT}/health`);
 });

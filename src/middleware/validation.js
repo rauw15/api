@@ -54,7 +54,17 @@ const productValidations = {
     
     body('imageUrl')
       .optional()
-      .isURL()
+      .custom((value) => {
+        if (!value || value.trim() === '') {
+          return true; // Permitir valores vacíos
+        }
+        try {
+          new URL(value);
+          return true;
+        } catch {
+          return false; // Solo rechazar si no es una URL válida
+        }
+      })
       .withMessage('La URL de imagen debe ser válida'),
     
     validateResults
@@ -94,7 +104,17 @@ const productValidations = {
     
     body('imageUrl')
       .optional()
-      .isURL()
+      .custom((value) => {
+        if (!value || value.trim() === '') {
+          return true; // Permitir valores vacíos
+        }
+        try {
+          new URL(value);
+          return true;
+        } catch {
+          return false; // Solo rechazar si no es una URL válida
+        }
+      })
       .withMessage('La URL de imagen debe ser válida'),
     
     validateResults

@@ -13,7 +13,7 @@ class Product {
     this.price = data.price;
     this.category = data.category;
     this.stock = data.stock || 0;
-    this.imageUrl = data.imageUrl || '';
+    this.imageUrl = data.imageUrl || 'https://via.placeholder.com/300x200/6366F1/FFFFFF?text=Product';
     this.createdAt = data.createdAt || new Date().toISOString();
     this.updatedAt = data.updatedAt || new Date().toISOString();
     this.isActive = data.isActive !== undefined ? data.isActive : true;
